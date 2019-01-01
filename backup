@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Backing up Operating Systems"
+git add .
+git commit -m "backing up"
+git push
+echo "done"
